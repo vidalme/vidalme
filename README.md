@@ -1,6 +1,6 @@
-### 🚀 Most Used Languages
 
-[![Vidalme's GitHub stats](https://github-readme-stats.vercel.app/api?username=vidalme)](https://github.com/anuraghazra/github-readme-stats)
+[![Vidalme's GitHub stats](https://github-readme-stats.vercel.app/top-langs?username=vidalme)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **vidalme/vidalme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,3 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on Instituto Atlantico
+- 🌱 I’m currently learning AWS, Kubernetes, GitOps
+- 📫 How to reach me: andrevidalme78@gmail.com
