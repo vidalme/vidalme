@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on Instituto Atlantico
-- 🌱 I’m currently learning AWS, Kubernetes, GitOps
-- 📫 How to reach me: andrevidalme78@gmail.com
+- 🔭 Devops @ Instituto Atlantico
+- 🌱 AWS, Kubernetes, GitOps
+- 📫 andrevidalme78@gmail.com
