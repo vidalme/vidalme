@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 Devops @ Instituto Atlantico
-- 🌱 AWS, Kubernetes, GitOps
+- 🌱 AWS, Kubernetes, Terraform
 - 📫 andrevidalme78@gmail.com
